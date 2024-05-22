@@ -6,4 +6,5 @@ This repository provides a publicly accessible JSON API containing profile data.
 
 - [https://20ce034.github.io/profiles-json-api/db.json](https://20ce034.github.io/profiles-json-api/db.json)
 
-# Data courtesy - https://github.com/MohitSojitra/react-blog-website
+#### Data courtesy 
+- https://github.com/MohitSojitra/react-blog-website
